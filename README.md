@@ -1,0 +1,1 @@
+El presente repositorio contiene datos de producción y ventas de biocombustible para la república argentina, desgolzado mensualmente, por provincia y tipo de biocombustible. Incluye datos de base, descomposición de la serie de producción y tableros de control de las principales variables descriptas.
